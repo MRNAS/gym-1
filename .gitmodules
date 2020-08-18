@@ -1,0 +1,4 @@
+[submodule "fitmachinelearning/FitML"]
+	path = fitmachinelearning/FitML
+	url = git@github.com:FitMachineLearning/FitML.git
+	branch = master
